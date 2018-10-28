@@ -1,0 +1,16 @@
+button{
+    border: 1px solid rgb(47, 0, 0);
+    background-color: rgb(136, 105, 28);
+    padding: 10px;
+    margin: auto;
+    font-weight: bold;
+    text-align: center;
+    border-radius:10px;
+    width: 300px;
+    max-width: 60%;
+}
+body{
+    background-color: rgb(255, 233, 182);
+    max-width: 40%;
+    margin: auto;
+}
